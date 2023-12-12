@@ -42,5 +42,9 @@ body {
   .navbar-brand{
     width: 100px;
   }
+}
 
+nav {
+    padding: 10px;
+    border: 2px solid black
 }
